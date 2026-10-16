@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Netlink help
+    url: https://jeman.net/netlink/support/
+    about: Setup guides and answers to common questions.
+  - name: Email support
+    url: https://jeman.net/support/
+    about: Purchases, refunds and anything you'd rather not post publicly. A real person will reply, usually within 2 business days.
+  - name: Report a security issue
+    url: https://github.com/JemanStudio/.github/blob/main/SECURITY.md
+    about: Please report security and privacy issues privately.
