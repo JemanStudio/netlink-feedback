@@ -11,14 +11,15 @@ body:
     attributes:
       label: Netlink version
       description: The version of the app you're using.
-      placeholder: e.g. 2.3.0
+      placeholder: e.g. 3.0.0
     validations:
       required: true
   - type: input
     id: os-version
     attributes:
-      label: macOS version
-      placeholder: e.g. 15.5
+      label: iOS or macOS version
+      description: Which device you're on and its system version.
+      placeholder: e.g. iOS 18.5 on iPhone, or macOS 15.5 on Mac
     validations:
       required: true
   - type: textarea
