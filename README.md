@@ -1,6 +1,6 @@
 # Netlink feedback
 
-Bug reports and feature requests for [Netlink](https://jeman.net/netlink/), a Jeman app for Mac.
+Bug reports and feature requests for [Netlink](https://jeman.net/netlink/), a Jeman app for iPhone, iPad and Mac.
 
 - **Found a bug?** [Open a bug report](../../issues/new?template=bug_report.yml)
 - **Have an idea?** [Suggest a feature](../../issues/new?template=feature_request.yml)
